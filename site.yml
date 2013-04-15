@@ -1,0 +1,16 @@
+title : Blog Title
+tagline: Blog Tagline
+author :
+  name : Ryan.Jin
+  email : sunny.davy@gmail.com
+  github : ryan.jin
+  twitter : 
+  feedburner : 
+
+navigation :
+  - archive.html
+  - tags.html
+  - categories.html
+  - pages.html
+  - about.md
+  
