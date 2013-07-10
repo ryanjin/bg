@@ -3,6 +3,7 @@ title: Rapberry Pi 使用DHT22测量温度适度
 date: '2013-05-08'
 description:
 categories:
+- pi
 ---
 
 

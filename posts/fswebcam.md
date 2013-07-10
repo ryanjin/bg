@@ -4,7 +4,7 @@ date: '2013-04-30'
 description:
 - Raspberry下安装Fswebcam
 categories:
-- raspberry
+- pi
 ---
 安装fswebcam
 
